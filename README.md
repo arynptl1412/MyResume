@@ -36,5 +36,5 @@ I am a passionate and results-driven Computer Science and Engineering student at
 I'm always open to new opportunities and collaborations. Feel free to connect with me\!
 
 * **Email:** aryanpatel141204@gmail.com  
-* **LinkedIn:**YourLinkedInProfileLink  
-* **GitHub:**YourGitHubProfileLink
+* **LinkedIn:** https://www.linkedin.com/in/aryan-patel-958b37251/  
+* **GitHub:** https://github.com/arynptl1412
